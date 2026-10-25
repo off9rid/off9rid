@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://instagram.com/amirbuildsai"><img src="https://img.shields.io/badge/Instagram-@amirbuildsai-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://amiralizhian.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amiralizhian.vercel.app-3BE8FF?style=flat-square&logoColor=black" /></a>
   <a href="https://meetfriday.vercel.app"><img src="https://img.shields.io/badge/Friday-meetfriday.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
