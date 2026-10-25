@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Amirali 👋</h1>
-<p align="center"><b>18 · Toronto · I build AI tools that give people their time back.</b></p>
+<p align="center"><b>18 · Aurora, ON · I build AI tools that give people their time back.</b></p>
 
 <p align="center">
   <a href="https://instagram.com/amirbuildsai"><img src="https://img.shields.io/badge/Instagram-@amirbuildsai-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
